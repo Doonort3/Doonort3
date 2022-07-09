@@ -1,8 +1,9 @@
 ### Hi there 👋
-- Currently writing "milkycli" and "milkysharp".
-- At the moment I am studying C# and computer science.
-- I’m looking to collaborate on main project.
-- Fun fact: I'm often going berserk.
+- Currently writing "**milkycli**" and "**milkysharp**". :scroll:
+- At the moment I am **studying C#** and **computer science**.
+- I’m looking to collaborate on **main projects**. 
+- Fun fact: I'm often going **berserk**. 
+
 --------------------------------------
 <!--
 **Doonort3/Doonort3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
