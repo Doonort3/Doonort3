@@ -1,5 +1,5 @@
 ### Hi there 👋
-- Currently writing "milkycli".
+- Currently writing "milkycli" and "milkysharp".
 - At the moment I am studying C# and computer science.
 - I’m looking to collaborate on main project.
 - Fun fact: I'm often going berserk.
